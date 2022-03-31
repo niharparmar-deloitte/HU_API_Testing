@@ -5,15 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dba46b53-e185-4937-872c-92f122df088b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/getCallMiniAssignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/putCallMiniAssignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/putcall.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_assignment_2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_assignment_2/src/test/java/getBuildSpec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_assignment_2/src/test/java/putBuildSpec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mini_assignment_2/src/test/resources/putdata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/putCallMiniAssignment1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/putCallMiniAssignment1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +52,44 @@
       <recent name="C:\Users\pyogeshbhai\Documents\HU_API_Testing\src\test\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.putCallMiniAssignment1.putCall">
-    <configuration name="putCallMiniAssignment1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.putBuildSpec">
+    <configuration name="C:/Users/pyogeshbhai/Documents/HU_API_Testing/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="mini_assignment_1_restassured" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getBuildSpec" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mini_assignment_2" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="putCallMiniAssignment1" />
+      <option name="MAIN_CLASS_NAME" value="getBuildSpec" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="getBuildSpec.Response1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mini_assignment_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="getBuildSpec" />
+      <option name="METHOD_NAME" value="Response1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="putBuildSpec" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mini_assignment_2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="putBuildSpec" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -77,35 +109,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="restAssuredMiniAssignment1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="mini_assignment_1_restassured" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="restAssuredMiniAssignment1" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="restAssuredMiniAssignment1.getResponse" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="mini_assignment_1_restassured" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="restAssuredMiniAssignment1" />
-      <option name="METHOD_NAME" value="getResponse" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.putBuildSpec" />
+        <item itemvalue="TestNG.getBuildSpec" />
+        <item itemvalue="TestNG.getBuildSpec.Response1" />
+        <item itemvalue="TestNG.C:/Users/pyogeshbhai/Documents/HU_API_Testing/testng.xml" />
         <item itemvalue="TestNG.putCallMiniAssignment1.putCall" />
-        <item itemvalue="TestNG.putCallMiniAssignment1" />
-        <item itemvalue="TestNG.restAssuredMiniAssignment1.getResponse" />
-        <item itemvalue="TestNG.restAssuredMiniAssignment1" />
       </list>
     </recent_temporary>
   </component>
